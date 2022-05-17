@@ -1,4 +1,0 @@
-czcixşiçxv.czcixşiçxv
-çxişcvçşixcç
-cv.çcxşçv
-çxvşççöxcşi
