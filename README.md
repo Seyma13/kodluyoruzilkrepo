@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-![KodluyoruzilkRepo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+![KodluyoruzilkRepo]()
 
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/)
