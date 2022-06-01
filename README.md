@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-![KodluyoruzilkRepo]()
+![KodluyoruzilkRepo](https://github.com/Seyma13/kodluyoruzilkrepo/blob/main/img.JPG)
 
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/)
